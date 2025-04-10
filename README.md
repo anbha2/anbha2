@@ -2,7 +2,7 @@
 
 > "Code is like poetry; every line tells a story."
 
-👋 Hi there! I'm a **tech explorer** and **problem solver** with over **12+ years of experience** crafting software that powers the digital world. My journey has taken me across the globe 🌍, collaborating with brilliant minds and solving complex challenges.
+👋 Hi there! I'm a **tech explorer** and **problem solver** with over **12 years of experience** crafting software that powers the digital world. My journey has taken me across the globe 🌍, collaborating with brilliant minds and solving complex challenges.
 
 ## 🛠️ My Superpowers
 
